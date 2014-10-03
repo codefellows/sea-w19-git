@@ -1,3 +1,3 @@
 FUNNY!
 
-http://i.imgur.com/YUT9L89.jpg
+![](http://i.imgur.com/YUT9L89.jpg)
